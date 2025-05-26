@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 cd desktop
+
 git config --global user.name "Hugglermatheus125"
+
 git config --global user.email "matheushuggler125@gmail.com"
+
 git clone LINK
